@@ -10,7 +10,7 @@ function onCommand(userobj, command, target, args) {
         var fotoScribble = new Scribble();
         fotoScribble.src = command.substring(Commands[i].length + 1);
         fotoScribble.oncomplete = handleScribble;
-        fotoScribble.download("\x0314Scribble sent by \x06\x07" + userobj.name);
+        fotoScribble.download(`\x0314Scribble sent by ${userobj.name}\x06\x07`);
       }
     }
   }
