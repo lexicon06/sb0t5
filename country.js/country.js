@@ -1,6 +1,6 @@
 print(0, "country.js country has been loaded correctly");
 
-var json = File.load("pais.json");
+var json = File.load("countryCodes.json");
 
 CheckCountry = function (u) {
   var req = new HttpRequest();
