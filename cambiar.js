@@ -469,3 +469,6 @@ function kode(t) {
         
     }
     
+
+
+    //made by lexicon06 for sb0t5
