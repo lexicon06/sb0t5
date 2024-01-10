@@ -1,0 +1,26 @@
+Q:¿Cómo se llama el astronauta de la pelicula Toy Story?###http://th.bing.com/th?q=toy%20story%20movie%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Buzz Lightyear
+Q:¿Cómo se llama el pueblo del que es princesa Elsa, de "Frozen"?###http://th.bing.com/th?q=frozen%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Arendelle
+Q:¿Quién escribió "Los relatos de Mowgli", en los que se basó "El libro de la selva"?###http://th.bing.com/th?q=libro%20mowgli&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Rudyard Kipling
+Q:¿En qué año se estrenó "La sirenita"?###http://th.bing.com/th?q=sirenita%20movie%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:1989
+Q:¿Qué personaje clásico aparece en un sombrero hacia el final de "Aladdín"?###http://th.bing.com/th?q=aladdin%20movie%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Goofy
+Q:¿Quién fabricó a Pinocho?###http://th.bing.com/th?q=pinocho%20movie%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Geppetto
+Q:¿Qué se le cae a Cenicienta?###http://th.bing.com/th?q=cenicienta%20movie%20disney&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:El zapato
+Q:¿Quién fue la primera princesa Disney?###http://th.bing.com/th?q=disney princesa&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Blancanieves
+Q:¿Cuántos cachorros tienen la Dama y el Vagabundo?###http://th.bing.com/th?q=dama%20y%20vagabundo%20disney%20movie&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:4
+Q:¿En qué año se estrenó la película El Rey León?###http://th.bing.com/th?q=rey%20leon%20disney%20movie&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:1994
+Q:¿Cuántas hermanas tiene Ariel?###http://th.bing.com/th?q=sirenita%20disney%20movie&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:6
+Q:Este famoso castillo con el que se conoce a Disney, ¿a qué princesa pertenece?###http://th.bing.com/th?q=castle%20disney%20movie&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:Aurora
+Q:¿De quién acaba enamorándose Pocahontas?###http://th.bing.com/th?q=pocahontas%20movie&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247
+A:John Smith

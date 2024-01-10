@@ -1,0 +1,40 @@
+Q:¿Cuál es la capital de Turquía?
+A:Ankara
+Q:¿Cuál es el nombre del desierto de México?
+A:Sonora
+Q:¿Cuantos continentes hay en el mundo?
+A:7[or]Siete
+Q:¿En qué isla italiana está Palermo?
+A:Sicilia
+Q:¿Cuál es el desierto cálido más grande de la tierra?
+A:Sahara[or]Sáhara
+Q:Y, si el Sáhara era el desierto cálido más grande, ¿Cuál es el desierto más grande?
+A:Antartida[or]La Antártida
+Q:¿Qué río discurre por Roma?
+A:Tíber[or]Tiber
+Q:¿Qué ciudad tuvo una vez el nombre de Leningrado?
+A:San Petersburgo
+Q:¿Qué país tuvo una vez el nombre de Rhodesia?
+A:Zimbabue
+Q:¿Cuál es el estado más grande de los Estados Unidos?
+A:Alaska
+Q:¿Qué río europeo fluye a través de 10 países diferentes?
+A:Danubio
+Q:¿En que país se encuentra Tombuctú?
+A:Africa
+Q:¿Cuál es el río más largo de Europa?
+A:Volaga
+Q:¿Cuál es el segundo país más grande de Europa después de Rusia?
+A:Francia
+Q:¿En qué país se encuentra Cracovia?
+A:Polonia
+Q:¿Cuál es la capital de Australia?
+A:Camberra
+Q:¿De qué país es capital Bratislava?
+A:Eslovaquia
+Q:¿Cuántos estados tiene los Estados Unidos?
+A:50
+Q:¿Cuál es la capital de Paraguay?
+A:Asunción[or]Asuncion
+Q:¿Cuál es el continente más poblado de la tierra?
+A:Asia

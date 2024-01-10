@@ -1,0 +1,4 @@
+para usar las trivias extras debes ponerles nombre quiz.txt
+
+
+TODO add sql support
