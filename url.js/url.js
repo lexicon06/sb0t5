@@ -12,7 +12,7 @@ timer.oncomplete = function () {
   for (var o = 0; o <= 3; o++) {
     if (i < txt.length) {
       temp += txt.charAt(i);
-      isInt(i / 2) ? todos(temp + "|") : todos(temp);
+      IsExactlyDivisible(i / 2) ? todos(temp + "|") : todos(temp);
       i++;
     }
     if (i == txt.length) {
@@ -23,7 +23,7 @@ timer.oncomplete = function () {
           if (fx2 == 0) {
             todos(txt);
           } else {
-            isInt(fx2 / 2)
+            IsExactlyDivisible(fx2 / 2)
               ? todos(txt.substring(0, txt.length - fx2) + "|")
               : todos(txt.substring(0, txt.length - fx2));
           }
@@ -43,7 +43,7 @@ timer.oncomplete = function () {
   }
 };
 
-function isInt(n) {
+function IsExactlyDivisible(n) {
   return n % 1 === 0;
 }
 
