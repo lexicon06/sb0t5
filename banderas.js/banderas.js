@@ -2,6 +2,8 @@ print("\x0315banderas.js cargado correctamente\x09\x0309!!\x09.");
 
 //otra version de pais pero menos compleja y sin banderas, guarda el pais de los usuarios conectados
 
+//TODO make scribble method and use flags such as https://www.esportsearnings.com/images/flags/32/xx.png
+
 
 function onCommand(userobj, command, target, args) {
     if (command.toLowerCase().substr(0, 6) == "paises" && userobj.level > 0) {
